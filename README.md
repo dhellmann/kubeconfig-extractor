@@ -1,4 +1,7 @@
 # kubeconfig-extractor
+## Build status
+
+[![Docker Repository on Quay](https://quay.io/repository/openshift-metalkube/kubeconfig-extractor/status "Docker Repository on Quay")](https://quay.io/repository/openshift-metalkube/kubeconfig-extractor)
 
 ## Example usage
 
